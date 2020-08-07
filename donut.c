@@ -13,7 +13,7 @@ void main(){
     float sini, cosj, sinA, sinj, cosA, cosj2, mess, cosi, cosB, sinB, t;
     int x,y,o,N;
 
-    for(; ; ) {
+    while (1) {
 
         memset(b,32,1760);
         memset(z,0,7040);
